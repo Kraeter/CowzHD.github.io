@@ -76,6 +76,7 @@ header a:hover{
 .showcase{
     min-height: 300px;
     background:url(./img/road.jpg) -550px;
+    background-image: no-repeat;
     text-align: center;
     color:#ffffff;
 }
