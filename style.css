@@ -75,7 +75,7 @@ header a:hover{
 
 #showcase{
     min-height: 300px;
-    background:url("https://imgur.com/a/Jj8Qu26") no-repeat 0 -550px;
+    background-image:url(https://imgur.com/a/Jj8Qu26) no-repeat 0 -550px;
     text-align: center;
     color:#ffffff;
 }
